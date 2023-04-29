@@ -1,4 +1,4 @@
-### Olá! Eu sou a Laura Fernanda, estudande e futura desenvolvedora web
+### Olá! Eu sou a Laura Fernanda
 - 🌱 I’m currently learning tailwind
 - 😄 Pronouns: Ela/Dela
 
